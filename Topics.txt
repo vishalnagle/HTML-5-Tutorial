@@ -21,3 +21,18 @@ Video url: https://www.youtube.com/watch?v=QXPWs00RD3A&list=PLjpp5kBQLNTSTU2xZf3
 18. Description lists
 19. HTML Table
 20. Nested Table
+21. Div and span
+22. iframe
+23. HTML audio
+24. HTML Video
+25. Embed pdf
+26. Embed youtube video
+27. Embed google map
+28. HTML entities
+29. HTML symbols
+30. Emojis in HTML
+31. Semantic Elements
+32. HTML Image Maps
+33. HTML Forms
+34. Form Input Types
+
