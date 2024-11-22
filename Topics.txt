@@ -1,0 +1,23 @@
+
+Video url: https://www.youtube.com/watch?v=QXPWs00RD3A&list=PLjpp5kBQLNTSTU2xZf3cmD3Bv5foEkfD-
+
+1. Introduction to the course
+2. Create first HTML file
+3. Basic structure of HTML
+4. Doctype
+5. Elements and attributes
+6. Indentation
+7. Comments
+8. Headings
+9. Paragraph
+10. HTML Formatting
+11. Quotation and Citation
+12. HTML Links
+13. Email Links
+14. Image in HTML
+15. Marquee
+16. Ordered lists
+17. Unordered lists
+18. Description lists
+19. HTML Table
+20. Nested Table
