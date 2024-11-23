@@ -35,4 +35,21 @@ Video url: https://www.youtube.com/watch?v=QXPWs00RD3A&list=PLjpp5kBQLNTSTU2xZf3
 32. HTML Image Maps
 33. HTML Forms
 34. Form Input Types
+35. Form File Upload
+36. HTML Input attributes
+37. HTML Textarea
+38. HTML Forms Select Options
+39. HTML Radio Buttons
+40. HTML Checkboxes
+41. Datalists
+42. Label, Fieldset and Legend
+43. SEO Tags
+44. Favicon
+45. Style in head tag 
+46. Script and Noscript tags 
+47. Open Graph and Twitter Card Tag 
+48. Viewport meta tag 
+49. Right to left website
+50. W3c HTML Validation
+
 
